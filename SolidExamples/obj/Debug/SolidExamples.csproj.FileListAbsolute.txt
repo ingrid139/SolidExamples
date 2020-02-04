@@ -1,0 +1,7 @@
+C:\Users\Ingrid Costa\source\repos\SolidExamples\SolidExamples\bin\Debug\SolidExamples.exe.config
+C:\Users\Ingrid Costa\source\repos\SolidExamples\SolidExamples\bin\Debug\SolidExamples.exe
+C:\Users\Ingrid Costa\source\repos\SolidExamples\SolidExamples\bin\Debug\SolidExamples.pdb
+C:\Users\Ingrid Costa\source\repos\SolidExamples\SolidExamples\obj\Debug\SolidExamples.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\SolidExamples\SolidExamples\obj\Debug\SolidExamples.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Costa\source\repos\SolidExamples\SolidExamples\obj\Debug\SolidExamples.exe
+C:\Users\Ingrid Costa\source\repos\SolidExamples\SolidExamples\obj\Debug\SolidExamples.pdb
